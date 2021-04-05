@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=Software%20developer&fontSize=80)
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+https://img.shields.io/static/v1?label=<text>&message=<tensorflow>&color=<yellow>
