@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-[![C Badge](http://img.shields.io/badge/-c?style=flat])
+https://img.shields.io/badge/text-c-green
 
 <img src="https://ghchart.rshah.org/dev-eajnim"/>
