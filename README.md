@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=Software%20developer&fontSize=80)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-https://img.shields.io/badge/text-c-green
+<img src="https://img.shields.io/badge/Giehun-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 
 <img src="https://ghchart.rshah.org/dev-eajnim"/>
