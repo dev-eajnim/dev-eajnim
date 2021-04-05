@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![C Badge](http://img.shields.io/badge/-c?style=flat])
 
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+https://img.shields.io/badge/dynamic/json?&label=healthinesses&color=green&?logo=c
