@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 [![C Badge](http://img.shields.io/badge/-c?style=flat])
+
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
