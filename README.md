@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=Software%20developer&fontSize=80)
-<p align="center"> : )</p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 <img src="https://ghchart.rshah.org/dev-eajnim"/>
+
+</p>
