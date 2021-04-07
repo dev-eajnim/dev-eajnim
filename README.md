@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+</p>
 
 <img src="https://ghchart.rshah.org/dev-eajnim"/>
 
-</p>
+
