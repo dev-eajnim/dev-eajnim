@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<p align=center></p>
+  
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 <img src="https://ghchart.rshah.org/dev-eajnim"/>
